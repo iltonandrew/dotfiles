@@ -1,0 +1,140 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.formatOnSave": true,
+    "explorer.compactFolders": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "JetBrains Mono",
+    // "editor.fontWeight": "400",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.mouseWheelZoom": true,
+    "editor.renderLineHighlight": "gutter",
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.fontSize": 12,
+    "prettier.enable": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "es5",
+    "prettier.printWidth": 120,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.packageManager": "yarn",
+    "eslint.codeActionsOnSave.mode": "all",
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+    ],
+    "emmet.syntaxProfiles": {
+      "javascript": "jsx" // Defines auto closing tags in JSX
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "editor.suggest.showWords": false,
+    "workbench.editorAssociations": [
+      {
+        "viewType": "jupyter-notebook",
+        "filenamePattern": "*.ipynb"
+      }
+    ],
+    "python.defaultInterpreterPath": "C:\\Python39\\python.exe",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.smoothScrolling": true,
+  }
+  // {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  //   "editor.formatOnSave": true,
+  //   "editor.detectIndentation": true,
+  //   "editor.fontFamily": "JetBrains Mono",
+  //   "editor.fontLigatures": true,
+  //   "editor.snippetSuggestions": "top",
+  //   "editor.wordBasedSuggestions": false,
+  //   "editor.suggest.localityBonus": true,
+  //   "editor.acceptSuggestionOnCommitCharacter": false,
+  //   "[javascript]": {
+  //     "editor.defaultFormatter": "esbenp.prettier-vscode",
+  //     "editor.suggestSelection": "recentlyUsed",
+  //     "editor.suggest.showKeywords": false
+  //   },
+  //   "editor.renderWhitespace": "boundary",
+  //   "files.exclude": {
+  //     "USE_GITIGNORE": true
+  //   },
+  //   "files.defaultLanguage": "{activeEditorLanguage}",
+  //   "javascript.validate.enable": false,
+  //   "search.exclude": {
+  //     "**/node_modules": true,
+  //     "**/bower_components": true,
+  //     "**/coverage": true,
+  //     "**/dist": true,
+  //     "**/build": true,
+  //     "**/.build": true,
+  //     "**/.gh-pages": true
+  //   },
+  //   "editor.codeActionsOnSave": {
+  //     "source.fixAll.eslint": false
+  //   },
+  //   "eslint.validate": [
+  //     "javascript",
+  //     "javascriptreact",
+  //     "typescript",
+  //     "typescriptreact"
+  //   ],
+  //   "eslint.options": {
+  //     "env": {
+  //       "browser": true,
+  //       "jest/globals": true,
+  //       "es6": true
+  //     },
+  //     "parserOptions": {
+  //       "ecmaVersion": 2019,
+  //       "sourceType": "module",
+  //       "ecmaFeatures": {
+  //         "jsx": true
+  //       }
+  //     },
+  //     "rules": {
+  //       "no-debugger": "off"
+  //     }
+  //   },
+  //   "workbench.colorTheme": "Night Owl",
+  //   "workbench.iconTheme": "material-icon-theme",
+  //   "breadcrumbs.enabled": true,
+  //   "grunt.autoDetect": "off",
+  //   "gulp.autoDetect": "off",
+  //   "npm.runSilent": true,
+  //   "explorer.confirmDragAndDrop": false,
+  //   "editor.formatOnPaste": false,
+  //   "editor.cursorSmoothCaretAnimation": true,
+  //   "editor.smoothScrolling": true,
+  //   "php.suggest.basic": false,
+  //   "editor.mouseWheelZoom": true,
+  // }
